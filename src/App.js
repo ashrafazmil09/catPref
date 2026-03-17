@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/catpref">
+    <Router basename="/catPref">
       <WebRoutes />
     </Router>
   );
